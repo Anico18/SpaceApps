@@ -3,7 +3,7 @@ import styles from './DescriptionComponent.module.css'
 
 const DescriptionComponent = () => {
   return (
-    <div>
+    <div className={styles.container}>
         <table>
             <thead>
                 <tr>

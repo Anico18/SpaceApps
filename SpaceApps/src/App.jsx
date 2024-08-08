@@ -13,8 +13,9 @@ function App() {
       <NameComponent></NameComponent>
       <h1 style={{fontSize: "2rem", paddingTop: "5rem", paddingBottom: "2rem", paddingLeft: "2rem"}}>Tecnologías que conozco:</h1>
       <TechsComponent></TechsComponent>
-      <h1 style={{fontSize: "2rem", paddingTop: "5rem", paddingBottom: "2rem", paddingLeft: "2rem"}}>Mis Pasatiempos</h1>
+      <h1 style={{fontSize: "2rem", paddingTop: "5rem", paddingBottom: "2rem", paddingLeft: "2rem"}}>Mis pasatiempos</h1>
       <HobbiesComponent></HobbiesComponent>
+      <h1 style={{fontSize: "2rem", paddingTop: "5rem", paddingBottom: "2rem", paddingLeft: "2rem"}}>¡Conóceme un poco!</h1>
       <FooterComponent></FooterComponent>
     </>
   )
