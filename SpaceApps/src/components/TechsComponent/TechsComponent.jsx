@@ -81,10 +81,22 @@ const TechsComponent = () => {
                     <table>
                         <tbody>
                             <tr>
+                                <td><h2>MySQL</h2></td>
+                            </tr>
+                            <tr>
+                                <td><img className={styles.logos} src="../src/assets/MySQL.png" alt="MySQL" /></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div className={styles.item}>
+                    <table>
+                        <tbody>
+                            <tr>
                                 <td><h2>PowerBI</h2></td>
                             </tr>
                             <tr>
-                                <td><img className={styles.logos} src="../src/assets/PowerBI.png" alt="Python" /></td>
+                                <td><img className={styles.logos} src="../src/assets/PowerBI.png" alt="PowerBI" /></td>
                             </tr>
                         </tbody>
                     </table>
@@ -96,7 +108,7 @@ const TechsComponent = () => {
                                 <td><h2>React</h2></td>
                             </tr>
                             <tr>
-                                <td><img className={styles.logos} src="../src/assets/React.png" alt="Python" /></td>
+                                <td><img className={styles.logos} src="../src/assets/React.png" alt="React" /></td>
                             </tr>
                         </tbody>
                     </table>
@@ -108,7 +120,19 @@ const TechsComponent = () => {
                                 <td><h2>Angular</h2></td>
                             </tr>
                             <tr>
-                                <td><img className={styles.logos} src="../src/assets/Angular.png" alt="Python" /></td>
+                                <td><img className={styles.logos} src="../src/assets/Angular.png" alt="Angular" /></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div className={styles.item}>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td><h2>Scykit Learn</h2></td>
+                            </tr>
+                            <tr>
+                                <td><img className={styles.logos} src="../src/assets/ScykitLearn.png" alt="ScykitLearn" /></td>
                             </tr>
                         </tbody>
                     </table>

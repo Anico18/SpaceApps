@@ -9,12 +9,15 @@
     margin-bottom: 3rem;
     padding-top: 3rem;
     padding-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .scroll {
     display: flex;
     align-items: center;
-    animation: loop 30s linear infinite;
+    animation: loop 20s linear infinite;
 }
 
 .fade {
